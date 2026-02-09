@@ -4,7 +4,7 @@ export default function DzikraAlguhfroon() {
   return (
     <MemberCard
       name="Dzikra Alguhfroon"
-      nim="2210004"
+      nim="251524041"
       hobby="DevOps & Security"
       description="Deep diving into distributed systems and ensuring infrastructure stability and security."
       role={{ name: "Backend Dev", color: "bg-emerald-600" }}
